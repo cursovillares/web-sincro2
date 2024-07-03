@@ -1,0 +1,21 @@
+a img.logo{
+    width: 100px;
+    height: auto;
+    
+}
+
+
+.cta-btn {
+    font-family: "Raleway", sans-serif;
+    font-weight: 500;
+    font-size: 15px;
+    letter-spacing: 1px;
+    display: inline-block;
+    padding: 12px 30px;
+    border-radius: 2px;
+    transition: 0.5s;
+    margin: 10px;
+    background: #009961;
+    color: #fff;
+    border-radius: 50px;
+}
